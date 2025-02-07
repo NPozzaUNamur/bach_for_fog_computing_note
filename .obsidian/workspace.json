@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "0d3b96cffdf99fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a643dc4f9a46c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce8edeaa1d29442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bach/Description.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Description"
+            }
+          },
+          {
+            "id": "c96b6b58a482c207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@res/Entrevue/Note entrevue 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note entrevue 2"
+            }
+          },
+          {
+            "id": "8d56d2aeedff984f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "@res/slideReactiveApplication.pdf",
+                "page": 87,
+                "left": -5,
+                "top": 271,
+                "zoom": 3.1501922361403945
+              },
+              "icon": "lucide-file-text",
+              "title": "slideReactiveApplication"
+            }
+          },
+          {
+            "id": "4a6fa401bc131afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rust/book/3. Concept de Programmation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Concept de Programmation"
+            }
+          },
+          {
+            "id": "723e96e1384538d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
+                "page": 1,
+                "left": -9,
+                "top": 846,
+                "zoom": 1.5800880346762542
+              },
+              "icon": "lucide-file-text",
+              "title": "TuSoW_Tuple_Spaces_for_Edge_Computing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5253ea75f02c581d",
+    "type": "split",
+    "children": [
+      {
+        "id": "36daf85a57fd223a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7352ab1dca1b921",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "88bfc47e91e8c49d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "c18dd0c5d83936a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 570.5
+  },
+  "right": {
+    "id": "61ed2be0ce51110d",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b4ef3ba556f47a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b967e90aba86f4d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rust/book/3. Concept de Programmation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour 3. Concept de Programmation"
+            }
+          },
+          {
+            "id": "71c78eb7ebb3a69d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rust/book/3. Concept de Programmation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de 3. Concept de Programmation"
+            }
+          },
+          {
+            "id": "756502de273d1ed2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "ee22b8e628544360",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rust/book/3. Concept de Programmation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de 3. Concept de Programmation"
+            }
+          },
+          {
+            "id": "bd946893521866ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 485.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "e4a53b5fd14732af",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d8637f1e5b38e5ec",
+        "type": "window",
+        "children": [
+          {
+            "id": "92e80c4179feff5c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "09e15c30040cd0b9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "@res/BachT.pdf",
+                    "page": 9,
+                    "left": -179,
+                    "top": 631,
+                    "zoom": 1.5
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "BachT"
+                }
+              },
+              {
+                "id": "7af1b37284c31776",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "@res/Ancien_mémoire.pdf",
+                    "page": 58,
+                    "left": -193,
+                    "top": 778,
+                    "zoom": 1.46
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Ancien_mémoire"
+                }
+              },
+              {
+                "id": "08f345b33059f14a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "@res/The Rust Programming Language.pdf",
+                    "page": 135,
+                    "left": -464,
+                    "top": 165,
+                    "zoom": 0.94
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "The Rust Programming Language"
+                }
+              },
+              {
+                "id": "8d374a8bf1f7de2b",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "@res/On the Expressiveness of Coordination Models.pdf",
+                    "page": 15,
+                    "left": -48,
+                    "top": 502,
+                    "zoom": 1.98
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "On the Expressiveness of Coordination Models"
+                }
+              },
+              {
+                "id": "e4cb4d916e54bcd8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "@res/distributed_communication_via_global_buffer.pdf",
+                    "page": 2,
+                    "left": -7,
+                    "top": 573,
+                    "zoom": 2.2892156862745097
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "distributed_communication_via_global_buffer"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 36,
+        "width": 1920,
+        "height": 1164,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c96b6b58a482c207",
+  "lastOpenFiles": [
+    "@res/The Rust Programming Language.pdf",
+    "@res/Entrevue/Note entrevue 2.md",
+    "@res/Entrevue/Mémoire - Note Entrevue 1.md",
+    "Bach/Description.md",
+    "Bach/Implémentation.md",
+    "Réseaux/Fog Computing/@En bref.md",
+    "Todo.md",
+    "Rust/book/3. Concept de Programmation.md",
+    "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
+    "@res/the_bach_family_of_languages.pdf",
+    "@res/Ancien_mémoire.pdf",
+    "Rust/Implementation strategies.md",
+    "@res/distributed_communication_via_global_buffer.pdf",
+    "@res/BachT.pdf",
+    "Pasted image 20241017074405.png",
+    "Pasted image 20241017075738.png",
+    "Pasted image 20250205120210.png",
+    "@res/slideReactiveApplication.pdf",
+    "@res/Ancien_mémoire.md",
+    "@res/distributed_communication_via_global_buffer.pdf.part",
+    "Historique de recherche.md",
+    "@res/slides-24-25.pdf",
+    "@res/mBach.pdf",
+    "Rust/book/2. Guessing Game.md",
+    "Rust/book/1. Getting Started.md",
+    "Rust/book/0. Introduction.md",
+    "Stage/Message Logement.md",
+    "Stage/Mail secrétaire pisa.md",
+    "Rust/Implémentation.md",
+    "@res/bacht.md",
+    "@res/Séance mémoire.md",
+    "Rust/Concept/Crate.md",
+    "Rust/Concept/Macro.md",
+    "Stage/Lettre motivation.md",
+    "Rust/book/4. Type de donnée.md",
+    "Rust/book/0a. Avant Propos.md",
+    "Bienvenue.md"
+  ]
+}
