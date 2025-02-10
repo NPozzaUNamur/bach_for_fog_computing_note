@@ -35,9 +35,10 @@ Following [[distributed_communication_via_global_buffer.pdf|DJAB01]], there are 
 #### Map
 The Map class in Scala instanced HashMap if keys number are higher than 4. [ref](https://stackoverflow.com/a/31685958)
 Those two share characteristics [refScala](https://docs.scala-lang.org/overviews/collections-2.13/maps.html) [refRust](https://doc.rust-lang.org/std/collections/struct.HashMap.html):
-- get method return Option type (Some if key present, None else)
+	- get method return Option type (Some if key present, None else)
 - exists an mutable version of the hashmap
 - operation has similarities (+=/insert, ++=/extend, remove, etc)
+
 It worth noting that Int in Scala is a 32-bit signed integer. Therefore, and regarding the fact that we don't allow negative number of occurrence, we should use 32-bit or more unsigned integer. ([ref](https://www.scala-lang.org/api/current/scala/Int.html))
 #### Concurrency
 The current state of Scala implementation doesn't seems to handle concurrency.

@@ -14,3 +14,7 @@ Ajouter à Bach les features state of the art des coordination language, en Rust
 - [ ] Implementation in Rust (Basic's implementation)
 - [ ] Look for ressource on how to implement network interaction
 - [ ] Look of doc on fog and edge computing
+### Lundi 10/02
+- [ ] Écrire test pour l'interpreteur via l'implémentation scala (module par module)
+- [ ] Faire implémentation BlackBoard
+- [ ] Faire google sheet pour références
