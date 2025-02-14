@@ -67,9 +67,9 @@ It use some parser's operations specific:
 Can't just translate code from Scala to Rust because of RegexParser usage.
 Use Scala implementation to re-implemente with [*nom*](https://docs.rs/nom/latest/nom/) crate in Rust.
 [*nom*](https://docs.rs/nom/latest/nom/) is the most popular parser in Rust. But there are some critics to it. ([ref](https://www.reddit.com/r/rust/comments/129qohw/should_i_revisit_my_choice_to_use_nom/))
-*nom* seems to allow what regexParser allows. (exp.\*/many(exp), exp.?/opt(exp), exp~exp/and(exp, exp)), and he is also based on function like regexParser.
+*nom* seems to allow what regexParser allows. (exp.\*/many(exp), exp.?/opt(exp), exp~exp/tuple(exp,exp), and he is also based on function like regexParser. But it worth noting that regex expression isn't handle by *nom*, I will use the [*regex crate*](https://docs.rs/regex/latest/regex/) to handle that part.
 Scala brings priority information, that has to be respected in the rust implementation.
-Scala's *Case Class* can be handle by Rust's enum, but it is not a perfect fit. [Rust01](The Rust Programming Language.pdf#page=134&annotation=9732R) 
+Scala's *Case Class* can be handle by Rust's enum, but it is not a perfect fit. [[The Rust Programming Language.pdf#page=134&annotation=9732R|Rust01]] 
 
 ## Module: Simulator
 ---

@@ -29,7 +29,7 @@
               "state": {
                 "file": "@res/slideReactiveApplication.pdf",
                 "page": 7,
-                "left": -4,
+                "left": -10,
                 "top": 130,
                 "zoom": 3.1501922361403945
               },
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Implémentation/Documentation Implémentation.md",
+                "file": "Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Documentation Implémentation"
+              "title": "Todo"
             }
           },
           {
@@ -58,17 +58,17 @@
               "type": "pdf",
               "state": {
                 "file": "@res/BachT.pdf",
-                "page": 2,
-                "left": -9,
-                "top": 401,
-                "zoom": 1.738689280266633
+                "page": 5,
+                "left": -103,
+                "top": 46,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "BachT"
             }
           },
           {
-            "id": "936d7a33677f2295",
+            "id": "efb66f18425f9429",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,6 +79,39 @@
               },
               "icon": "lucide-file",
               "title": "Implementation strategies"
+            }
+          },
+          {
+            "id": "6664ec05afcb0e91",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "@res/The Rust Programming Language.pdf",
+                "page": 622,
+                "left": -184,
+                "top": 161,
+                "zoom": 1.25
+              },
+              "icon": "lucide-file-text",
+              "title": "The Rust Programming Language"
+            }
+          },
+          {
+            "id": "ef4af684192575cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "@res/The Rust Programming Language.pdf",
+                "page": 105,
+                "left": -249,
+                "top": 517,
+                "zoom": 1.1
+              },
+              "icon": "lucide-file-text",
+              "title": "The Rust Programming Language"
             }
           }
         ],
@@ -139,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.5
+    "width": 259.5
   },
   "right": {
     "id": "61ed2be0ce51110d",
@@ -240,15 +273,18 @@
   },
   "active": "4a6fa401bc131afd",
   "lastOpenFiles": [
-    "@res/BachT.pdf",
-    "Rust/Implémentation/Implementation strategies.md",
     "Rust/Implémentation/Documentation Implémentation.md",
-    "@res/slideReactiveApplication.pdf",
-    "Bach/Description.md",
+    "@res/BachT.pdf",
     "Todo.md",
+    "@res/The Rust Programming Language.pdf",
+    "@res/slideReactiveApplication.pdf",
+    "Rust/Implémentation/Implementation strategies.md",
+    "The.md",
+    "@res/mBach.pdf",
+    "@res/On the Expressiveness of Coordination Models.pdf",
+    "Bach/Description.md",
     "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
     "Rust/Implémentation",
-    "@res/The Rust Programming Language.pdf",
     "Rust/book/3. Concept de Programmation.md",
     "@res/the_bach_family_of_languages.pdf",
     "@res/Entrevue/Note entrevue 2.md",
@@ -261,9 +297,7 @@
     "Pasted image 20241017075738.png",
     "Pasted image 20250205120210.png",
     "@res/Ancien_mémoire.md",
-    "@res/distributed_communication_via_global_buffer.pdf.part",
     "Historique de recherche.md",
-    "@res/slides-24-25.pdf",
     "Rust/book/2. Guessing Game.md",
     "Rust/book/1. Getting Started.md",
     "Rust/book/0. Introduction.md",
@@ -276,7 +310,6 @@
     "Rust/Concept/Macro.md",
     "Stage/Lettre motivation.md",
     "Rust/book/4. Type de donnée.md",
-    "Rust/book/0a. Avant Propos.md",
-    "Bienvenue.md"
+    "Rust/book/0a. Avant Propos.md"
   ]
 }

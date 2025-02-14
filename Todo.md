@@ -11,10 +11,26 @@ Ajouter à Bach les features state of the art des coordination language, en Rust
 - [x] Simulateur, description et possibilité de portage vers rust
 ## Semaine 2
 ### Global objective
-- [ ] Implementation in Rust (Basic's implementation)
+- [x] Implementation in Rust (Basic's implementation)
 - [ ] Look for ressource on how to implement network interaction
 - [ ] Look of doc on fog and edge computing
 ### Lundi 10/02
-- [ ] Écrire test pour l'interpreteur via l'implémentation scala (module par module)
-- [ ] Faire implémentation BlackBoard
+- [x] Écrire test pour Blackboard
+- [x] Faire implémentation BlackBoard
 - [ ] Faire google sheet pour références
+### Mardi 11/02
+- [x] Écrire test pour parser
+- [ ] Faire implémentation Parser
+- [ ] Faire google sheet pour références
+### Mercredi 12/02
+- [x] Finir le parser
+- [x] Écrire documentation pour le parser
+- [x] Commencer le simulateur
+### Jeudi 13/02
+- [x] Finir implementation + Client
+- [ ] Google sheet
+### Vendredi 14/02
+- [x] Ajouter documentation simulateur
+- [ ] Google sheet
+- [ ] State of the Art of network based interaction for coordination language
+- [ ] Fog computing documentation
