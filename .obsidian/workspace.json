@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Recherches/@Tableur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "@Tableur"
             }
           },
           {
@@ -248,8 +248,9 @@
   },
   "active": "6664ec05afcb0e91",
   "lastOpenFiles": [
-    "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
     "Todo.md",
+    "Recherches/@Tableur.md",
+    "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
     "@res/Tuple-Based_coordination_in_large-scale_situated_systems",
     "@res/On_the_exprissiveness_of_linda-like_concurrent_languages.pdf",
     "Recherches/The B2Scala Tool.md",
@@ -262,7 +263,6 @@
     "@res/Ancien_mémoire.pdf",
     "@res/Evaluating the efficiency of Linda implementations.pdf.part",
     "@res/distributed_communication_via_global_buffer.pdf",
-    "@res/Concurrency and Computation - 2017 - Buravlev - Evaluating the efficiency of Linda implementations.pdf",
     "Rust/Implémentation/Documentation Implémentation.md",
     "Bach/Description.md",
     "Rust/Concept/Crate.md",
