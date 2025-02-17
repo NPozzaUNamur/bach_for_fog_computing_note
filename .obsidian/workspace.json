@@ -6,39 +6,10 @@
       {
         "id": "9a643dc4f9a46c92",
         "type": "tabs",
+        "dimension": 66.83168316831683,
         "children": [
           {
-            "id": "3ce8edeaa1d29442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bach/Description.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Description"
-            }
-          },
-          {
-            "id": "8d56d2aeedff984f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "@res/slideReactiveApplication.pdf",
-                "page": 7,
-                "left": -10,
-                "top": 130,
-                "zoom": 3.1501922361403945
-              },
-              "icon": "lucide-file-text",
-              "title": "slideReactiveApplication"
-            }
-          },
-          {
-            "id": "4a6fa401bc131afd",
+            "id": "6664ec05afcb0e91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,70 +23,74 @@
             }
           },
           {
-            "id": "ea62bbf5a437e5aa",
+            "id": "41e97e6df257f257",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "@res/BachT.pdf",
-                "page": 5,
-                "left": -103,
-                "top": 46,
+                "file": "@res/B2Scala.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 796,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
-              "title": "BachT"
+              "title": "B2Scala"
             }
           },
           {
-            "id": "efb66f18425f9429",
+            "id": "359c2601574ba7f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
+                "page": 1,
+                "left": -12,
+                "top": 845,
+                "zoom": 1.2953193777090823
+              },
+              "icon": "lucide-file-text",
+              "title": "TuSoW_Tuple_Spaces_for_Edge_Computing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ecbda6b61333c55",
+        "type": "tabs",
+        "dimension": 33.16831683168317,
+        "children": [
+          {
+            "id": "022932e4ad4ee708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust/Implémentation/Implementation strategies.md",
+                "file": "Recherches/Evaluating the efficiency of Linda implementations.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evaluating the efficiency of Linda implementations"
+            }
+          },
+          {
+            "id": "65f2a122ff4183f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recherches/The B2Scala Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implementation strategies"
-            }
-          },
-          {
-            "id": "6664ec05afcb0e91",
-            "type": "leaf",
-            "dimension": 20,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "@res/The Rust Programming Language.pdf",
-                "page": 622,
-                "left": -184,
-                "top": 161,
-                "zoom": 1.25
-              },
-              "icon": "lucide-file-text",
-              "title": "The Rust Programming Language"
-            }
-          },
-          {
-            "id": "ef4af684192575cc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "@res/The Rust Programming Language.pdf",
-                "page": 105,
-                "left": -249,
-                "top": 517,
-                "zoom": 1.1
-              },
-              "icon": "lucide-file-text",
-              "title": "The Rust Programming Language"
+              "title": "The B2Scala Tool"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,45 +246,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a6fa401bc131afd",
+  "active": "6664ec05afcb0e91",
   "lastOpenFiles": [
-    "Rust/Implémentation/Documentation Implémentation.md",
-    "@res/BachT.pdf",
-    "Todo.md",
-    "@res/The Rust Programming Language.pdf",
-    "@res/slideReactiveApplication.pdf",
-    "Rust/Implémentation/Implementation strategies.md",
-    "The.md",
-    "@res/mBach.pdf",
-    "@res/On the Expressiveness of Coordination Models.pdf",
-    "Bach/Description.md",
     "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
-    "Rust/Implémentation",
-    "Rust/book/3. Concept de Programmation.md",
-    "@res/the_bach_family_of_languages.pdf",
-    "@res/Entrevue/Note entrevue 2.md",
-    "@res/Entrevue/Mémoire - Note Entrevue 1.md",
-    "Bach/Implémentation.md",
-    "Réseaux/Fog Computing/@En bref.md",
+    "Todo.md",
+    "@res/Tuple-Based_coordination_in_large-scale_situated_systems",
+    "@res/On_the_exprissiveness_of_linda-like_concurrent_languages.pdf",
+    "Recherches/The B2Scala Tool.md",
+    "@res/B2Scala.pdf",
+    "Recherches/Evaluating the efficiency of Linda implementations.md",
+    "@res/Evaluating the efficiency of Linda implementations.pdf",
+    "Rust/Implémentation/Implementation strategies.md",
+    "@res/BachT.pdf",
+    "@res/Twenty_Years_of_Coordination_Technologies_State_of_the_Art_and_Perspectives.pdf",
     "@res/Ancien_mémoire.pdf",
+    "@res/Evaluating the efficiency of Linda implementations.pdf.part",
     "@res/distributed_communication_via_global_buffer.pdf",
-    "Pasted image 20241017074405.png",
-    "Pasted image 20241017075738.png",
-    "Pasted image 20250205120210.png",
-    "@res/Ancien_mémoire.md",
-    "Historique de recherche.md",
+    "@res/Concurrency and Computation - 2017 - Buravlev - Evaluating the efficiency of Linda implementations.pdf",
+    "Rust/Implémentation/Documentation Implémentation.md",
+    "Bach/Description.md",
+    "Rust/Concept/Crate.md",
+    "Rust/Concept/Macro.md",
+    "Rust/book/3. Concept de Programmation.md",
     "Rust/book/2. Guessing Game.md",
     "Rust/book/1. Getting Started.md",
     "Rust/book/0. Introduction.md",
+    "Pasted image 20241017074405.png",
+    "Pasted image 20250205120210.png",
+    "Pasted image 20241017075738.png",
+    "@res/Entrevue/Fri_7_02/IMG_3.png",
+    "@res/Entrevue/Fri_7_02/IMG_2.png",
+    "@res/Entrevue/Fri_7_02/IMG_1.png",
+    "@res/Entrevue/Fri_7_02/IMG.png",
+    "@res/Entrevue/Mémoire - Note Entrevue 1.md",
+    "The.md",
+    "@res/Entrevue/Note entrevue 2.md",
+    "Bach/Implémentation.md",
+    "Réseaux/Fog Computing/@En bref.md",
+    "@res/Ancien_mémoire.md",
+    "Historique de recherche.md",
     "Stage/Message Logement.md",
     "Stage/Mail secrétaire pisa.md",
     "Rust/Implémentation.md",
     "@res/bacht.md",
     "@res/Séance mémoire.md",
-    "Rust/Concept/Crate.md",
-    "Rust/Concept/Macro.md",
-    "Stage/Lettre motivation.md",
-    "Rust/book/4. Type de donnée.md",
-    "Rust/book/0a. Avant Propos.md"
+    "Stage/Lettre motivation.md"
   ]
 }

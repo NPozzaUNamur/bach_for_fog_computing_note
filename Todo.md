@@ -10,7 +10,7 @@ Ajouter à Bach les features state of the art des coordination language, en Rust
 ## Vendredi 7/02
 - [x] Simulateur, description et possibilité de portage vers rust
 ## Semaine 2
-### Global objective
+---
 - [x] Implementation in Rust (Basic's implementation)
 - [ ] Look for ressource on how to implement network interaction
 - [ ] Look of doc on fog and edge computing
@@ -34,3 +34,15 @@ Ajouter à Bach les features state of the art des coordination language, en Rust
 - [ ] Google sheet
 - [ ] State of the Art of network based interaction for coordination language
 - [ ] Fog computing documentation
+## Semaine 3
+---
+- [ ] Look for ressource on how to implement network interaction
+- [ ] Look on doc about fog and edge computing
+- [ ] State-of-the-Art Coordination Modele & distributed
+### Lundi 17/02
+- [x] Set up excel table for state of the art
+- [ ] Begin State of the Art writing
+### Mardi 18/02
+- [ ] Lire Tuple-Based Coordination in Large-Scale Situated Systems et prendre note
+- [ ] Lire TuSoW: Tuple Spaces for Edge Computing et prendre note
+- [ ] Organiser rdv avec stefano (parler B2Scala et API pour chaque language ??)

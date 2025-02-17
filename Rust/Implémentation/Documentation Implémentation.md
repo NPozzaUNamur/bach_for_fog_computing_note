@@ -28,7 +28,7 @@ J'implémente le module en rust feature par feature selon les tests.
 	2. Ask ne peut donc pas s’exécuter s'il n'y a pas de token (ou 0 occurrence) dans le store.
 3. Get Opération
 	1. Get doit suivre les règles d'exécution de Ask sauf qu'il decrement le nombre d’occurrence du token cible [[BachT.pdf#page=2&selection=171,4,171,44|BachT, p.2]]
-	2. Get ne peut donc pas s'éxécuter s'il n'y a pas de token (ou 0 occurrence) dans le store.
+	2. Get ne peut donc pas s'exécuter s'il n'y a pas de token (ou 0 occurrence) dans le store.
 4. Nask opération
 	1. Nask ne peut s'excécuter que s'il n'y a pas une ou plusieurs occurrence du token cible [[BachT.pdf#page=2&selection=177,6,181,27|BachT, p.2]]
 	2. Nask ne s'exécute pas s'il y a au moins une occurrence du token cible
@@ -44,18 +44,18 @@ J'implémente le module en rust feature par feature selon les tests.
 ## Module 2 : The parser
 ### Tests
 Tests are mostly based on Scala implementation
-1. Primitives
+5. Primitives
 	1. Le parser doit accepter tell
 	2. Le parser doit accepter ask
 	3. Le parser doit accepter get
 	4. Le parser doit accepter nask
 	5. Le parser doit refuser d'autre primitives hallucinées
-2. Token
+6. Token
 	1. Has to accept basic token syntax with lowercase
 	2. Has to accept more complex syntaxe with capital and digit (but not on first character)
 	3. Has to refuse token with special characters
 	4. Has to refuse token that first character is not lowercase but digit or capitals
-3. Agents
+7. Agents
 	1. Empty agent has to be handle by the parser ? TODO: Ask Prof. Jaquet why not implemented in Scala code but specified in the code and present in the theorical aspect [[On the Expressiveness of Coordination Models.pdf#page=6&selection=742,0,751,2&color=yellow|On the Expressiveness of Coordination Models, p.6]] [[BachT.pdf#page=2&selection=147,0,151,14&color=yellow|BachT, p.2]]
 	2. Has to parse an basic agent (like primitives)
 	3. Has to parse an agent in brackets
@@ -88,10 +88,10 @@ Tests are mostly based on Scala implementation
 ## Module 3 : The simulator
 ### Tests
 Using a Mock of the store to check the call count
-1. Primitives
+8. Primitives
 	1. Has to handle the tell, ask, nask and get primitive
 	2. Has to refuse hallucinate primitive (should panic)
-2. Agent (execute_all)
+9. Agent (execute_all)
 	1. Has to handle primitives
 	2. Handle sequence combination
 	3. Handle parallel combination
