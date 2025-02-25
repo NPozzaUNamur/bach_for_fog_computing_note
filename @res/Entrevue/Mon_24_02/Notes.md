@@ -1,0 +1,12 @@
+- **Next Meeting**: Friday 28th at 12:00
+- **Goals**:
+	- Define and specify system to: 
+		- enable node with own blackboard
+		- remote access for blackboard
+		- central server that holds data about all nodes/blackboards
+		- ?communication between process and bach client.
+	- Update SotA: 
+		- Add year column
+		- Refactor summary, it should comply with that structure (objectif, methodology and results)
+		- Refactor KeyWords columns: Delete and add more thesis oriented key words (for instance: "security mechanisms", "distributed tuple space", "hierachical relations among tuple space", "application exemple" and "open-source implementation of language") and can add some relevant key word 
+	- Quid of IP-address access

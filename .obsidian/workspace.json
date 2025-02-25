@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9a643dc4f9a46c92",
+        "id": "2c9173d7bb94c303",
         "type": "tabs",
-        "dimension": 66.83168316831683,
+        "dimension": 65.72494669509595,
         "children": [
           {
-            "id": "6664ec05afcb0e91",
+            "id": "2b03a0b359285594",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "@res/tuple-based_coordination_in_large-scale_situated_systems.pdf",
+                "page": 8,
+                "left": -12,
+                "top": 724,
+                "zoom": 1.2867647058823533
+              },
+              "icon": "lucide-file-text",
+              "title": "tuple-based_coordination_in_large-scale_situated_systems"
+            }
+          },
+          {
+            "id": "40662992654a9ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,52 +39,48 @@
             }
           },
           {
-            "id": "41e97e6df257f257",
+            "id": "f8f5298c0bfccafa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "@res/B2Scala.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 796,
-                "zoom": 1.5
+                "file": "Planning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "B2Scala"
-            }
-          },
-          {
-            "id": "359c2601574ba7f0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 845,
-                "zoom": 1.2953193777090823
-              },
-              "icon": "lucide-file-text",
-              "title": "TuSoW_Tuple_Spaces_for_Edge_Computing"
+              "icon": "lucide-file",
+              "title": "Planning"
             }
           }
         ]
       },
       {
-        "id": "3ecbda6b61333c55",
+        "id": "38240e5063f3f9d0",
         "type": "tabs",
-        "dimension": 33.16831683168317,
+        "dimension": 34.27505330490405,
         "children": [
           {
-            "id": "022932e4ad4ee708",
+            "id": "583e1a6661f10e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recherches/Tuple Based Coordination in Large-Scale Situated Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tuple Based Coordination in Large-Scale Situated Systems"
+            }
+          },
+          {
+            "id": "cd853a6cfd11b9c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Recherches/Evaluating the efficiency of Linda implementations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -76,21 +88,22 @@
             }
           },
           {
-            "id": "65f2a122ff4183f5",
+            "id": "a8f0720e73b214f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Recherches/The B2Scala Tool.md",
-                "mode": "source",
-                "source": false
+                "file": "@res/Evaluating the efficiency of Linda implementations.pdf",
+                "page": 3,
+                "left": -4,
+                "top": 246,
+                "zoom": 0.8
               },
-              "icon": "lucide-file",
-              "title": "The B2Scala Tool"
+              "icon": "lucide-file-text",
+              "title": "Evaluating the efficiency of Linda implementations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "61ed2be0ce51110d",
@@ -246,50 +260,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6664ec05afcb0e91",
+  "active": "2b03a0b359285594",
   "lastOpenFiles": [
-    "Todo.md",
+    "Planning.md",
     "Recherches/@Tableur.md",
-    "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
-    "@res/Tuple-Based_coordination_in_large-scale_situated_systems",
-    "@res/On_the_exprissiveness_of_linda-like_concurrent_languages.pdf",
-    "Recherches/The B2Scala Tool.md",
-    "@res/B2Scala.pdf",
-    "Recherches/Evaluating the efficiency of Linda implementations.md",
-    "@res/Evaluating the efficiency of Linda implementations.pdf",
-    "Rust/Implémentation/Implementation strategies.md",
-    "@res/BachT.pdf",
-    "@res/Twenty_Years_of_Coordination_Technologies_State_of_the_Art_and_Perspectives.pdf",
-    "@res/Ancien_mémoire.pdf",
-    "@res/Evaluating the efficiency of Linda implementations.pdf.part",
-    "@res/distributed_communication_via_global_buffer.pdf",
-    "Rust/Implémentation/Documentation Implémentation.md",
-    "Bach/Description.md",
-    "Rust/Concept/Crate.md",
-    "Rust/Concept/Macro.md",
-    "Rust/book/3. Concept de Programmation.md",
-    "Rust/book/2. Guessing Game.md",
-    "Rust/book/1. Getting Started.md",
+    "@res/tuple-based_coordination_in_large-scale_situated_systems.pdf",
+    "Recherches/Tuple Based Coordination in Large-Scale Situated Systems.md",
+    "Rust/book/image/Pasted image 20241017074405.png",
+    "Rust/book/image/Pasted image 20250205120210.png",
     "Rust/book/0. Introduction.md",
-    "Pasted image 20241017074405.png",
-    "Pasted image 20250205120210.png",
-    "Pasted image 20241017075738.png",
+    "Rust/book/1. Getting Started.md",
+    "Rust/book/3. Concept de Programmation.md",
+    "Rust/book/image",
+    "@res/Entrevue/Mon_24_02/Notes.md",
+    "@res/Evaluating the efficiency of Linda implementations.pdf",
+    "Recherches/Evaluating the efficiency of Linda implementations.md",
+    "Recherches/Coordination as a Service.md",
+    "Recherches/On The Expressiveness of Coordination Models.md",
+    "Recherches/The B2Scala Tool.md",
+    "@res/Entrevue/Note entrevue 2.md",
+    "@res/Entrevue/Sans titre.md",
+    "@res/Entrevue/Mon_24_02",
+    "@res/BachT.pdf",
+    "@res/Entrevue/Fri_7_02/IMG.png",
+    "@res/linda_in_space-time.pdf",
+    "Recherches/TuSoW Tuple Spaces for Edge Computing.md",
+    "@res/B2Scala.pdf",
+    "Recherches/Linda in Space-Time.md",
+    "Coordination/Description.md",
+    "@res/distributed_programming_with_multiple_tuple_space_linda.pdf",
+    "Coordination/Sans titre.md",
+    "@res/coordination_as_a_service.pdf",
+    "Recherches/Sans titre",
+    "Stage/Mail secrétaire pisa.md",
+    "Stage/Message Logement.md",
+    "Stage/Lettre motivation.md",
     "@res/Entrevue/Fri_7_02/IMG_3.png",
     "@res/Entrevue/Fri_7_02/IMG_2.png",
     "@res/Entrevue/Fri_7_02/IMG_1.png",
-    "@res/Entrevue/Fri_7_02/IMG.png",
-    "@res/Entrevue/Mémoire - Note Entrevue 1.md",
-    "The.md",
-    "@res/Entrevue/Note entrevue 2.md",
-    "Bach/Implémentation.md",
-    "Réseaux/Fog Computing/@En bref.md",
-    "@res/Ancien_mémoire.md",
-    "Historique de recherche.md",
-    "Stage/Message Logement.md",
-    "Stage/Mail secrétaire pisa.md",
-    "Rust/Implémentation.md",
-    "@res/bacht.md",
-    "@res/Séance mémoire.md",
-    "Stage/Lettre motivation.md"
+    "Rust/Implémentation/Implementation strategies.md",
+    "Rust/Implémentation/Documentation Implémentation.md",
+    "Rust/Concept/Crate.md",
+    "Rust/Concept/Macro.md",
+    "Rust/book/2. Guessing Game.md",
+    "Rust/book/image/Pasted image 20241017075738.png"
   ]
 }
