@@ -1,2 +1,2 @@
 - Is that worth to speak about spatiotemporal system in the thesis ? From [[tuple-based_coordination_in_large-scale_situated_systems.pdf#page=7&selection=6,0,6,51|tuple-based_coordination_in_large-scale_situated_systems, p.7]]
-- 
+- Are blackboard only accessible by one process useful useful ? Because it take more ressources to maintain a blackboard than to use the stack/heap of the device. And if only one process using the blackboard, blackboard or stack/heap are equals (according to me, no source to verify my point).

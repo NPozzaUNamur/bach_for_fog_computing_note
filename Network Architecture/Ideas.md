@@ -14,7 +14,6 @@
 			- Don't need to handle tracking each blackboard
 			- syntaxe keep simple form
 			- Only 3 blackboard, so don't need to retrieve the target blackboard id
-		- Not need of keeping track of all blackboard
 	4. Unknown aspect
 		- Does it allows to resolve same number of problem that solution with id ?
 
