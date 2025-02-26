@@ -5,4 +5,6 @@ Tuple space coordination is a coordination paradigm where there is a share space
 Most known language is *Linda*. It was created for closed system (highly parallel application) [[coordination_as_a_service.pdf#page=1&selection=67,25,70,52&color=yellow|coordination_as_a_service, p.1]] 
 
 There are several implementation, extension and variant (like bachT)
+implementation are often an adding primitive in a language [[coordination_as_a_service.pdf#page=3&selection=55,16,56,80&color=yellow|coordination_as_a_service, p.3]]
+
 

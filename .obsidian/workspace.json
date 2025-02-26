@@ -12,14 +12,16 @@
             "id": "ac059e9b8b222a35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Network Architecture/Schema.md",
-                "mode": "source",
-                "source": false
+                "file": "@res/coordination_as_a_service.pdf",
+                "page": 17,
+                "left": -11,
+                "top": 826,
+                "zoom": 1.342436974789916
               },
-              "icon": "lucide-file",
-              "title": "Schema"
+              "icon": "lucide-file-text",
+              "title": "coordination_as_a_service"
             }
           },
           {
@@ -63,8 +65,33 @@
               "icon": "lucide-file",
               "title": "Question"
             }
+          },
+          {
+            "id": "b5325174dd5dc8e4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "@res/Entrevue/Fri_7_02/IMG.png"
+              },
+              "icon": "lucide-image",
+              "title": "IMG"
+            }
+          },
+          {
+            "id": "40e5450e85a4fd40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "@res/Entrevue/Fri_7_02/IMG.png"
+              },
+              "icon": "lucide-image",
+              "title": "IMG"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "7ea98a19c157cf24",
@@ -284,26 +311,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac059e9b8b222a35",
+  "active": "40e5450e85a4fd40",
   "lastOpenFiles": [
     "Network Architecture/Ideas.md",
-    "Network Architecture/Schema.md",
+    "@res/Ancien_mémoire.pdf",
+    "@res/Entrevue/Fri_7_02/IMG.png",
     "@res/coordination_as_a_service.pdf",
+    "Question.md",
     "Coordination/Description.md",
+    "Planning.md",
+    "@res/Séance mémoire.md",
+    "Network Architecture/Schema.md",
     "@res/tupleware_a_distributed_tuple_space.pdf",
     "@res/tuple-based_coordination_in_large-scale_situated_systems.pdf",
     "Research/Coordination as a Service.md",
     "@res/Evaluating the efficiency of Linda implementations.pdf",
-    "@res/Entrevue/Fri_7_02/IMG.png",
     "@res/Entrevue/Fri_7_02/IMG_2.png",
     "@res/Entrevue/Fri_7_02/IMG_3.png",
     "@res/Entrevue/Fri_7_02/IMG_1.png",
-    "Planning.md",
     "@res/a_review_on_fog_computing.pdf",
     "Research/Tuple Based Coordination in Large-Scale Situated Systems.md",
     "Research/Linda in the fog.md",
-    "Question.md",
-    "@res/Ancien_mémoire.pdf",
     "@res/linda_in_space-time.pdf",
     "Research/Evaluating the efficiency of Linda implementations.md",
     "Research/TuSoW Tuple Spaces for Edge Computing.md",
@@ -326,7 +354,6 @@
     "@res/BachT.pdf",
     "Stage/Mail secrétaire pisa.md",
     "Stage/Message Logement.md",
-    "Stage/Lettre motivation.md",
     "Rust/book/image/Pasted image 20241017075738.png"
   ]
 }
