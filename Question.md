@@ -1,0 +1,2 @@
+- Is that worth to speak about spatiotemporal system in the thesis ? From [[tuple-based_coordination_in_large-scale_situated_systems.pdf#page=7&selection=6,0,6,51|tuple-based_coordination_in_large-scale_situated_systems, p.7]]
+- 

@@ -8,8 +8,11 @@
 - [ ] Rédiger note sur [[On the Expressiveness of Coordination Models.pdf]] et [[On_the_exprissiveness_of_linda-like_concurrent_languages.pdf]]
 - [ ] IP address notes
 ### Tuesday 25/02
-- [ ] Read [[Tuple Based Coordination in Large-Scale Situated Systems]]
-- [ ] IP address notes from [[Ancien_mémoire.pdf]]
+- [x] Read [[Tuple Based Coordination in Large-Scale Situated Systems]]
+- [x] IP address notes from [[Ancien_mémoire.pdf]]
+### Wednesday 26/02
+- [ ] Read article [[Coordination as a Service]]
+- [ ] Write first proposal for network architecture with schema
 ## Week 3
 ---
 - [ ] Look for ressource on how to implement network interaction
