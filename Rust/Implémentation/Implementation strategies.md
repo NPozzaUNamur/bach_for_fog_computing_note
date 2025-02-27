@@ -4,7 +4,7 @@
 	- Can use the Scala implementation and re code it in rust
 	- Using transpiler. (Issue: Only one repertory on GitHub that has not begin development yet [Scala2Rust](https://github.com/doofin/scala2rust))
 # Ressources
-- BM01 - [[Ancien_mémoire.pdf|Bever's Master Thesis]]
+- BM01 - [[linda_in_the_fog(previous_thesis).pdf|Bever's Master Thesis]]
 - BM02 - [Server implementation for LiF, Berver's Master Thesis](https://github.com/Maxbever/LIF_Interpreter/blob/master/src/server.rs)
 - JMJ01 - [[BachT.pdf|BachT Implementation Documentation]]
 - JMJ02 - [[slideReactiveApplication.pdf|Slide Reactive Application Class]]
@@ -44,7 +44,7 @@ It worth noting that Int in Scala is a 32-bit signed integer. Therefore, and reg
 The current state of Scala implementation doesn't seems to handle concurrency.
 Rust handle concurrency by encapsulating value in Mutex (or RwLock), which is in (a)rc.
 Mutex ([[The Rust Programming Language.pdf#page=456&selection=33,0,37,16|Rust01]]) allow 1 access to the value at a time and arc ([[The Rust Programming Language.pdf#page=462&annotation=9729R|Rust01]]) allow multiple owner for the value. Useful when processing multiple threads.
-RwLock ([[Ancien_mémoire.pdf#page=47&annotation=1875R|BM01]]) is an alternative to Mutex that are allow multiple read but one write at the time. 
+RwLock ([[linda_in_the_fog(previous_thesis).pdf#page=47&annotation=1875R|BM01]]) is an alternative to Mutex that are allow multiple read but one write at the time. 
 Question: Does you need to use mutex if content can't be altered, but removed, added and read ? 
 #### Ip-based access
 ![[slideReactiveApplication.pdf#page=87|Schema of distributed use case]]
@@ -52,7 +52,7 @@ Question: Does you need to use mutex if content can't be altered, but removed, a
 There are multiple solutions to bring remote access to shared spaces.
 In [[distributed_communication_via_global_buffer.pdf|DJAB01]], there is a network of processor, that have to communicate with each others.
 
-Following [BM01](@res/Ancien_mémoire.pdf), the communication system is based on client server architecture. [[@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf|GCLR01]]
+Following [BM01](linda_in_the_fog(previous_thesis).pdf), the communication system is based on client server architecture. [[@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf|GCLR01]]
 ## Module : Parser
 ---
 ### Description

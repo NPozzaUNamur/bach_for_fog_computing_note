@@ -6,13 +6,21 @@
 ### Monday 24/02
 - [x] Meeting
 - [ ] Rédiger note sur [[On the Expressiveness of Coordination Models.pdf]] et [[On_the_exprissiveness_of_linda-like_concurrent_languages.pdf]]
-- [ ] IP address notes
+- [x] IP address notes
 ### Tuesday 25/02
 - [x] Read [[Tuple Based Coordination in Large-Scale Situated Systems]]
-- [x] IP address notes from [[Ancien_mémoire.pdf]]
+- [x] IP address notes from [[linda_in_the_fog(previous_thesis).pdf]]
 ### Wednesday 26/02
 - [ ] Read article [[Coordination as a Service]]
-- [ ] Write first proposal for network architecture with schema
+- [x] Write first proposal for network architecture with schema
+### Thursday 27/02
+- [ ] Search article about fog protocol
+- [ ] Specified a protocol for distributed bach
+- [x] Look for [[Linda in the fog]] remote access solutions
+### Friday 28/02
+- [ ] Meeting with Stefano
+- [ ] Organise meeting with supervisor and promoter
+- [ ] Setup up strategies to implement remote access
 ## Week 3
 ---
 - [ ] Look for ressource on how to implement network interaction
