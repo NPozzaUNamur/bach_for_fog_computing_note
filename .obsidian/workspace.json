@@ -6,7 +6,7 @@
       {
         "id": "2c9173d7bb94c303",
         "type": "tabs",
-        "dimension": 72.92110874200426,
+        "dimension": 78.51812366737741,
         "children": [
           {
             "id": "ac059e9b8b222a35",
@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "@res/coordination_as_a_service.pdf",
-                "page": 17,
-                "left": -11,
-                "top": 826,
+                "page": 7,
+                "left": -111,
+                "top": 500,
                 "zoom": 1.342436974789916
               },
               "icon": "lucide-file-text",
@@ -39,19 +39,33 @@
             }
           },
           {
-            "id": "ce18dc0343206e75",
+            "id": "25dc62c00af272a6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "@res/evaluation_of_http3_protocol_for_iot_and_fog_computing_scenarios.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 845,
-                "zoom": 1.4741061289217106
+                "page": 4,
+                "left": -9,
+                "top": 726,
+                "zoom": 1.592538587142771
               },
               "icon": "lucide-file-text",
               "title": "evaluation_of_http3_protocol_for_iot_and_fog_computing_scenarios"
+            }
+          },
+          {
+            "id": "8e08c00358268cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Question"
             }
           }
         ],
@@ -60,7 +74,7 @@
       {
         "id": "7ea98a19c157cf24",
         "type": "tabs",
-        "dimension": 27.07889125799574,
+        "dimension": 21.4818763326226,
         "children": [
           {
             "id": "b4fc0c90bc4de17e",
@@ -74,6 +88,20 @@
               },
               "icon": "lucide-file",
               "title": "Evaluation of HTTP3 Protocol for Internet of Things and Fog Computing Scenarios"
+            }
+          },
+          {
+            "id": "ce18dc0343206e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/TuSoW Tuple Spaces for Edge Computing.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TuSoW Tuple Spaces for Edge Computing"
             }
           }
         ]
@@ -235,18 +263,21 @@
   },
   "active": "b4fc0c90bc4de17e",
   "lastOpenFiles": [
-    "Evaluation of HTTP3 Protocol for Internet of Things and Fog Computing Scenarios.md",
     "@res/evaluation_of_http3_protocol_for_iot_and_fog_computing_scenarios.pdf",
+    "Evaluation of HTTP3 Protocol for Internet of Things and Fog Computing Scenarios.md",
     "Planning.md",
+    "Question.md",
+    "@res/coordination_as_a_service.pdf",
+    "Research/TuSoW Tuple Spaces for Edge Computing.md",
+    "@res/TuSoW_Tuple_Spaces_for_Edge_Computing.pdf",
+    "@res/Twenty_Years_of_Coordination_Technologies_State_of_the_Art_and_Perspectives.pdf",
     "Network Architecture/Schema.md",
     "Coordination/Description.md",
     "Research/Linda in the fog.md",
     "Research/Coordination as a Service.md",
     "Network Architecture/Ideas.md",
-    "Question.md",
     "@res/linda_in_the_fog(previous_thesis).pdf",
     "@res/Entrevue/Fri_7_02/IMG.png",
-    "@res/coordination_as_a_service.pdf",
     "@res/Séance mémoire.md",
     "@res/tupleware_a_distributed_tuple_space.pdf",
     "@res/tuple-based_coordination_in_large-scale_situated_systems.pdf",
@@ -258,7 +289,6 @@
     "Research/Tuple Based Coordination in Large-Scale Situated Systems.md",
     "@res/linda_in_space-time.pdf",
     "Research/Evaluating the efficiency of Linda implementations.md",
-    "Research/TuSoW Tuple Spaces for Edge Computing.md",
     "Research/The B2Scala Tool.md",
     "Research/On The Expressiveness of Coordination Models.md",
     "Research/Linda in Space-Time.md",
@@ -270,13 +300,10 @@
     "Rust/book/0. Introduction.md",
     "Rust/book/1. Getting Started.md",
     "Rust/book/3. Concept de Programmation.md",
-    "Rust/book/image",
     "@res/Entrevue/Mon_24_02/Notes.md",
     "@res/Entrevue/Note entrevue 2.md",
     "@res/Entrevue/Sans titre.md",
-    "@res/Entrevue/Mon_24_02",
     "Stage/Mail secrétaire pisa.md",
-    "Stage/Message Logement.md",
     "Rust/book/image/Pasted image 20241017075738.png"
   ]
 }

@@ -18,6 +18,7 @@
 - [ ] Specified a protocol for distributed bach
 - [x] Look for [[Linda in the fog]] remote access solutions
 ### Friday 28/02
+- [ ] QUIC and fog computing
 - [ ] Meeting with Stefano
 - [ ] Organise meeting with supervisor and promoter
 - [ ] Setup up strategies to implement remote access
